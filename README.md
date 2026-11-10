@@ -16,3 +16,12 @@ To identify gene-expression signatures, model disease progression, classify pati
 
 ## Time Series Analysis in Digital Biology
 <img width="893" height="516" alt="Rplot" src="https://github.com/user-attachments/assets/74691d11-fffb-4749-9849-a6fb90ed751e" />
+
+
+## Several web-based platforms that can generate heatmaps and volcano plots from RNA-seq data, including single-cell RNA-seq datasets.
+For scRNA-seq specifically, I would recommend exploring:
+SingleCellAnalyst (https://www.singlecellanalyst.org/) — supports single-cell data analysis, differential expression, heatmaps, volcano plots, and other visualizations.
+ScarfWeb (https://www.nygen.io/products/scarfweb) — provides browser-based single-cell analysis, including differential expression comparisons and volcano plots.
+ASAP (https://asap.epfl.ch/) — a web-based platform specifically developed for single-cell transcriptomics analysis and interactive visualization.
+scVizApp (https://biocoreapps.bsd.uchicago.edu/scrna_visualizationapp/) — useful for generating heatmaps, dot plots, and other visualizations from processed single-cell datasets.
+BD Cellismo — offers a graphical interface for single-cell visualization, including heatmaps and volcano plots.
